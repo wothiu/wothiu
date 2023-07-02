@@ -4,7 +4,7 @@
 ### Stats
 
 ![My stats](https://github-readme-stats-rho-one-63.vercel.app/api?username=wothiuDev&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats-rho-one-63.vercel.app/api/top-langs/username=wothiuDev&show_icons=true&theme=github_dark&layout=compact)
+![Top Langs](https://github-readme-stats-rho-one-63.vercel.app/api/top-langs/?username=wothiuDev&show_icons=true&theme=github_dark&layout=compact)
 ### My Stack
 
 #### Languages:
