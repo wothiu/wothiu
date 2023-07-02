@@ -34,7 +34,7 @@
 
 ### Stats
 
-![My stats](https://github-readme-stats-rho-one-63.vercel.app/api?username=wothiuDev&show_icons=true&theme=github_dark)
+![My stats](https://github-readme-stats-rho-one-63.vercel.app/api?username=wothiuDev&show_icons=true&theme=github_dark&include_all_commits=true)
 ![Top Langs](https://github-readme-stats-rho-one-63.vercel.app/api/top-langs/?username=wothiuDev&show_icons=true&theme=github_dark&layout=compact)
 
 #### Recent Activity
