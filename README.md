@@ -1,10 +1,7 @@
 # Hi, i'm wothiu
 
 
-### Stats
 
-![My stats](https://github-readme-stats-rho-one-63.vercel.app/api?username=wothiuDev&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats-rho-one-63.vercel.app/api/top-langs/?username=wothiuDev&show_icons=true&theme=github_dark&layout=compact)
 ### My Stack
 
 #### Languages:
@@ -33,6 +30,12 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
 ![Roblox Studio Badge](https://img.shields.io/badge/Roblox%20Studio-00A2FF?logo=robloxstudio&logoColor=fff&style=flat)
+
+
+### Stats
+
+![My stats](https://github-readme-stats-rho-one-63.vercel.app/api?username=wothiuDev&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats-rho-one-63.vercel.app/api/top-langs/?username=wothiuDev&show_icons=true&theme=github_dark&layout=compact)
 
 #### Recent Activity
 <!--START_SECTION:activity-->
