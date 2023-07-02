@@ -32,3 +32,11 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
 ![Roblox Studio Badge](https://img.shields.io/badge/Roblox%20Studio-00A2FF?logo=robloxstudio&logoColor=fff&style=flat)
+
+#### Recent Activity
+<!--START_SECTION:activity-->
+
+
+
+
+<!--END_SECTION:activity-->
