@@ -1,9 +1,9 @@
-### Hi, i'm wothiu
+# Hi, i'm wothiu
 
 
 ### Stats
 
-[![My stats]((https://github-readme-stats.vercel.app/api?username=wothiuDev&show_icons=true&theme=github_dark))]
+![My stats](https://github-readme-stats.vercel.app/api?username=wothiuDev&show_icons=true&theme=github_dark)
 
 ### My Stack
 
