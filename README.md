@@ -7,11 +7,13 @@
 #### Languages:
 ![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
 ![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=flat)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
-![C Sharp Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&style=flat)
 ![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&style=flat)
 ![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&style=flat)
+
+### Learning:
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
+![C Sharp Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&style=flat)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 
 #### Application and Data:
 ![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white)
@@ -42,9 +44,6 @@
 
 ![My stats](https://github-readme-stats-rho-one-63.vercel.app/api?username=wothiuDev&show_icons=true&theme=github_dark&include_all_commits=true)
 ![Top Langs](https://github-readme-stats-rho-one-63.vercel.app/api/top-langs/?username=wothiuDev&show_icons=true&theme=github_dark&layout=compact)
-
-#### Recent Activity
-<!--START_SECTION:activity-->
 
 
 
