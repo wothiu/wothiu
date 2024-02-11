@@ -1,9 +1,10 @@
 # <p align="center" style="font-size: 25px;"> Hello! </p>
 
 
-###  <p align="center"> Languages: 
-![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
-![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=flat)
+###  <p align="center"> Languages: </p>
+<p align="center"> 
+<img src = "https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white">
+<img src = "https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=flat">
 </p>
 
 ### <p align="center"> Wish to learn: </p>
