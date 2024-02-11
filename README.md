@@ -1,8 +1,7 @@
 # <p align="center" style="font-size: 25px;"> Hello! </p>
 
 
-###  <p align="center"> Languages: </p>
-<p align="center"> 
+###  <p align="center"> Languages: 
 <img src = "https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white">
 <img src = "https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=flat">
 </p>
