@@ -1,12 +1,12 @@
 # <p align="center" style="font-size: 25px;"> Hello! </p>
 
 
-####  <p align="center" style="font-size: 25px;"> Languages: </p>
+###  <p align="center"> Languages: </p>
 ![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
 ![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=flat)
 
 
-### <p align="center" style="font-size: 25px;"> Wish to learn: </p>
+### <p align="center"> Wish to learn: </p>
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 ![C Sharp Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
@@ -15,7 +15,7 @@
 
 
 
-#### <p align="center" style="font-size: 25px;"> Utilities: </p>
+### <p align="center"> Utilities: </p>
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Heroku Badge](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat)
 ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat)
