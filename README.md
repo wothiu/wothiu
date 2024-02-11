@@ -40,10 +40,10 @@
 
 ### <p align="center"> Stats </p>
 <p align="center">
-<img height=150 src ="https://github-readme-stats-rho-one-63.vercel.app/api?username=wothiuDev&show_icons=true&theme=github_dark&include_all_commits=true">
+<img height=150 src ="https://raw.githubusercontent.com/wothiuDev/github-stats/master/generated/overview.svg#gh-dark-mode-only"> 
 <img height=150 src ="https://github-readme-stats-rho-one-63.vercel.app/api/top-langs/?username=wothiuDev&show_icons=true&theme=github_dark&layout=compact">
 <img height=150 src ="https://github-readme-stats-rho-one-63.vercel.app/api//wakatime?username=wothiuDev">
- <img height=150 src ="https://raw.githubusercontent.com/wothiuDev/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+<img height=150 src ="https://github-readme-stats-rho-one-63.vercel.app/api?username=wothiuDev&show_icons=true&theme=github_dark&include_all_commits=true">
 </p>
 
 
