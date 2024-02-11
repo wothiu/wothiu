@@ -2,7 +2,7 @@
 
 
 ###  <p align="center"> Languages: </p>
-<p>
+<p align="center">
 <img src = "https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white">
 <img src = "https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=flat">
 </p>
