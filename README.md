@@ -12,7 +12,6 @@
 <img src = "https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat">
 <img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&style=flat">
 <img src = "https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat">
-<img src = "https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff&style=flat">
 <img src = "https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat">
 </p>
 
