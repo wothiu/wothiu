@@ -19,6 +19,7 @@
 ### <p align="center"> Utilities: </p>
 <p align="center">
 <img src ="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
+<img src ="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white">
 <img src ="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat">
 <img src ="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat">
 <img src ="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat">
