@@ -1,4 +1,4 @@
-https://badges.pages.dev/# <p align="center" style="font-size: 25px;"> Hello! </p>
+<p align="center" style="font-size: 25px;"> Hello! </p>
 
 
 ###  <p align="center"> Languages: </p>
