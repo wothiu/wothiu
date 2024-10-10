@@ -1,66 +1,45 @@
-<p align="center" style="font-size: 25px;"> Hello! </p>
+# Hello!
 
-
-##  <p align="center"> Languages: </p>
+## Languages
 <p align="center">
-<img src = "https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white">
-<img src = "https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=flat">
+  <img src="https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=flat">
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat">
+  <img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=flat">
+  <img src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff&style=flat">
 </p>
 
-## <p align="center"> Wish to learn: </p>
-<p align="center">>
-<img src = "https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat">
-<img src = "https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=flat">
-<img src= "https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat">
-<img src= "https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff&style=flat">
-</p>
-
-
-## <p align="center"> Utilities: </p>
-#### <p align="center"> Development Tools: </p>
+## Development Tools
 <p align="center">
-<img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
-<img src="http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Roblox%20Studio-00A2FF?logo=robloxstudio&logoColor=fff&style=flat">
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
+  <img src="http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Roblox%20Studio-00A2FF?logo=robloxstudio&logoColor=fff&style=flat">
 </p>
 
-#### <p align="center"> Deployment & Hosting: </p>
+## Deployment & Management
 <p align="center">
-<img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat">
+  <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat">
+  <img src="https://img.shields.io/badge/Termius-000?logo=termius&logoColor=fff&style=flat">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat">
 </p>
 
-#### <p align="center"> Remote Management: </p>
+## APIs & Services
 <p align="center">
-<img src="https://img.shields.io/badge/Termius-000?logo=termius&logoColor=fff&style=flat">
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=fff&style=flat">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat">
+  <img src="https://img.shields.io/badge/Mongoose-800?logo=mongoose&logoColor=fff&style=flat">
 </p>
 
-#### <p align="center"> API & Web Services: </p>
+## Other Tools
 <p align="center">
-<img src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=fff&style=flat">
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=fff&style=flat">
+  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat">
 </p>
 
-#### <p align="center"> Databases: </p>
+## Stats
 <p align="center">
-<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat">
-<img src="https://img.shields.io/badge/Mongoose-800?logo=mongoose&logoColor=fff&style=flat">
+  <img height=175 src="https://raw.githubusercontent.com/wothiuDev/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+  <img height=150 src="https://github-readme-stats-rho-one-63.vercel.app/api/top-langs/?username=wothiuDev&show_icons=true&theme=github_dark&layout=compact">
+  <img height=150 src="https://github-readme-stats-rho-one-63.vercel.app/api/wakatime?username=wothiuDev">
 </p>
-
-#### <p align="center"> Linters & Code Quality: </p>
-<p align="center">
-<img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=fff&style=flat">
-</p>
-
-#### <p align="center"> Communication: </p>
-<p align="center">
-<img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat">
-</p>
-
-## <p align="center"> Stats </p>
-<p align="center">
-<img height=175 src ="https://raw.githubusercontent.com/wothiuDev/github-stats/master/generated/overview.svg#gh-dark-mode-only"> 
-<img height=150 src ="https://github-readme-stats-rho-one-63.vercel.app/api/top-langs/?username=wothiuDev&show_icons=true&theme=github_dark&layout=compact">
-<img height=150 src ="https://github-readme-stats-rho-one-63.vercel.app/api//wakatime?username=wothiuDev">
-</p>
-
-
