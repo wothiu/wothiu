@@ -4,16 +4,15 @@
 ##  <p align="center"> Languages: </p>
 <p align="center">
 <img src = "https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white">
-<img src ="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=TypeScript&logoColor=white">
 <img src = "https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=flat">
 </p>
 
 ## <p align="center"> Wish to learn: </p>
-<p align="center">
-<img src = "https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat">
-<img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&style=flat">
-<img src = "https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat">
+<p align="center">>
 <img src = "https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat">
+<img src = "https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=flat">
+<img src= "https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat">
+<img src= "https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff&style=flat">
 </p>
 
 
@@ -22,8 +21,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
 <img src="http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Roblox%20Studio-00A2FF?logo=robloxstudio&logoColor=fff&style=flat">
 </p>
@@ -31,9 +28,6 @@
 #### <p align="center"> Deployment & Hosting: </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat">
-<img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat">
-<img src="https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=fff&style=flat">
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat">
 </p>
 
 #### <p align="center"> Remote Management: </p>
@@ -43,9 +37,6 @@
 
 #### <p align="center"> API & Web Services: </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat">
-<img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=flat">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=fff&style=flat">
 </p>
 
