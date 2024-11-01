@@ -9,7 +9,6 @@
 ## Wish to learn
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat">
-  <img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=flat">
   <img src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff&style=flat">
 </p>
 
