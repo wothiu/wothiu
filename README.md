@@ -4,12 +4,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=flat">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat">
 </p>
 
 ## Wish to learn
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat">
   <img src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff&style=flat">
+
 </p>
 
 ## Development Tools
