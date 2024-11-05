@@ -45,6 +45,6 @@
 ## Stats
 <p align="center">
   <img height=175 src="https://raw.githubusercontent.com/wothiuDev/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-  <img height=175 src="https://github-readme-stats-rho-one-63.vercel.app/api/top-langs/?username=wothiuDev&show_icons=true&theme=github_dark&layout=compact">
+  <img height=150 src="https://github-readme-stats-rho-one-63.vercel.app/api/top-langs/?username=wothiuDev&show_icons=true&theme=github_dark&layout=compact">
   <img height=200 src="https://github-readme-stats-rho-one-63.vercel.app/api/wakatime?username=wothiuDev">
 </p>
