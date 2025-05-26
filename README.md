@@ -8,6 +8,8 @@ I'm wothiu but most people just call me woth
   <img src="https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat">
   <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=flat">
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=fff&style=flat">
+
   
 </p>
 
